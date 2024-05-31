@@ -1,0 +1,15 @@
+Login cred
+username: admin
+pw: 123456
+
+Database use: MYSQL
+You may change the credentials in conn -> db_manage.php file
+
+------------------------------------------------------
+
+Note: 
+If user type is admin, you can access all views
+else you are not allowed to access users and project.
+
+-----------------------------------------------------
+Php ver: PHP 8.2.12
